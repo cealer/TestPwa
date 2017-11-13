@@ -1,0 +1,31 @@
+﻿{
+  "short_name": "PWA.NetCore",
+  "name": "PWA.NetCore",
+  "icons": [
+    {
+      "src": "/img/girl-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/girl-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/girl-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/girl-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "theme_color": "#317EFB",
+  "background_color": "#317EFB",
+  "orientation": "portrait",
+  "display": "standalone"
+}
